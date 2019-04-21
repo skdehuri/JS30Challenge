@@ -4,3 +4,4 @@
 * [04 - Array Cardio Day 1](https://swarajdehuri.github.io/JS30Challenge/04%20-%20Array%20Cardio%20Day%201/)
 * [05 - Flex Panel Gallery](https://swarajdehuri.github.io/JS30Challenge/05%20-%20Flex%20Panel%20Gallery/)
 * [06 - Type Ahead](https://swarajdehuri.github.io/JS30Challenge/06%20-%20Type%20Ahead/)
+* [07 - Array Cardio Day 2](https://swarajdehuri.github.io/JS30Challenge/07%20-%20Array%20Cardio%20Day%202/)
