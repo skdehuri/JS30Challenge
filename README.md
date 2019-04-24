@@ -7,3 +7,4 @@
 * [07 - Array Cardio Day 2](https://swarajdehuri.github.io/JS30Challenge/07%20-%20Array%20Cardio%20Day%202/)
 * [08 - Fun with HTML5 Canvas](https://swarajdehuri.github.io/JS30Challenge/08%20-%20Fun%20with%20HTML5%20Canvas/)
 * [09 - Dev Tools Domination](https://swarajdehuri.github.io/JS30Challenge/09%20-%20Dev%20Tools%20Domination/)
+* [10 - Hold Shift and Check the checkbox](https://swarajdehuri.github.io/JS30Challenge/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/)
