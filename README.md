@@ -8,3 +8,4 @@
 * [08 - Fun with HTML5 Canvas](https://swarajdehuri.github.io/JS30Challenge/08%20-%20Fun%20with%20HTML5%20Canvas/)
 * [09 - Dev Tools Domination](https://swarajdehuri.github.io/JS30Challenge/09%20-%20Dev%20Tools%20Domination/)
 * [10 - Hold Shift and Check the checkbox](https://swarajdehuri.github.io/JS30Challenge/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/)
+* [11 - Custom Video Player](https://swarajdehuri.github.io/JS30Challenge/11%20-%20Custom%20Video%20Player/)
