@@ -12,3 +12,4 @@
 * [12 - Key Sequence Detection](https://swarajdehuri.github.io/JS30Challenge/12%20-%20Key%20Sequence%20Detection/)
 * [13 - Slide-in on scroll](https://swarajdehuri.github.io/JS30Challenge/13%20-%20Slide%20in%20on%20Scroll/)
 * [14 - JavaScript Copy and Reference](https://swarajdehuri.github.io/JS30Challenge/14%20-%20JavaScript%20References%20VS%20Copying/)
+* [15 - Local Storage](https://swarajdehuri.github.io/JS30Challenge/15%20-%20LocalStorage/)
